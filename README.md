@@ -2,7 +2,7 @@
 
 ### Preview
 
-#### [在线预览 Live Demo →](http://liaokeyu.com/)
+#### [传图链接 →](https://sm.ms)
 
 ![](screenshot/jekyll-theme-h2o-realhome.jpg)
 
