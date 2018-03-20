@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: '小小铭的独立博客'
-description: '前端开发者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '小小铭, 小小铭的独立博客, 小小铭的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
+description: '前端开发者/极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
+keyword: '小小铭, 小小铭的独立博客, 小小铭的博客, 前端, 前端开发, 前端博客, javascript, vuejs, 设计'
 
 url: 'https://jwxiaoming.github.io' # your host
 baseurl: ''
@@ -14,7 +14,7 @@ nav:
 # Author 配置博主信息
 author: '小小铭'
 nickname: '唧唧'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
+bio: '网页前端，热爱技术&设计，简单乐观爱创造'
 avatar: 'assets/img/profile.png'
 
 # Search
